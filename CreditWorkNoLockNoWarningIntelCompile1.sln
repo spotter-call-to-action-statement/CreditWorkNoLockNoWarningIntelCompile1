@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreditWorkNoLockNoWarningIntelCompile1", "CreditWorkNoLockNoWarningIntelCompile1.vcproj", "{DBAFD406-A9A3-4E97-9E9E-AC5A8D856A03}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DBAFD406-A9A3-4E97-9E9E-AC5A8D856A03}.Debug.ActiveCfg = Debug|Win32
+		{DBAFD406-A9A3-4E97-9E9E-AC5A8D856A03}.Debug.Build.0 = Debug|Win32
+		{DBAFD406-A9A3-4E97-9E9E-AC5A8D856A03}.Release.ActiveCfg = Release|Win32
+		{DBAFD406-A9A3-4E97-9E9E-AC5A8D856A03}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
